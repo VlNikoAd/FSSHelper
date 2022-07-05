@@ -1,6 +1,6 @@
 import interfaces.*;
 
-public class Assistant implements Health, Money, Family, Carier, Friends {
+public class Assistant implements Health, Money, Family, Carrier, Friends {
 
     public Assistant() {}
 
